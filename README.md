@@ -1,5 +1,4 @@
-# Welcome to Hello-World-C
+# Bem Vindo
 
-This repository represents the beginning of a programming journey. Here, I will document my progress, projects, and learning experiences as I venture into the world of programming with C.
+Esse Repositório representa o início da minha jornada. Irei Documentar meu progresso.
 
-Feel free to explore and follow along!
